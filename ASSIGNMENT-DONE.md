@@ -1,1 +1,1 @@
-#"Commit"ed the tast, the given assignment has been completed.
+#"Commit"ed the task, the given assignment has been completed.
